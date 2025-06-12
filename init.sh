@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "wireshark-intro lab ready to use ....."
+echo "wireshark-acme-corporate-breach lab ready to use ....."
